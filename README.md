@@ -1,4 +1,4 @@
-# Projeto-Integrade-Desenvolvimento-Desktop
+# Projeto-Integrado-Desenvolvimento-Desktop
 Rafael Carvalho Moreira
 RA: 1012023200088
 
