@@ -6,6 +6,13 @@ Aqui descrevo o desenvolvimento de um sistema para cadastro e gerenciamento de e
 O objetivo principal do projeto é permitir que empresas sejam registradas e associadas a diferentes serviços e projetos, 
 otimizando a gestão de informações e garantindo maior organização e controle.
 
+Para utilizar, faça o download do XAMPP e instale: "https://www.apachefriends.org/download.html".	Isso vai instalar o Apache (servidor web) e o MySQL (banco de dados)
+Salve a pasta "meu_projeto" em "C:\xampp\htdocs".
+Abra o XAMPP e no painel de controle habilite a função Apache e MySQL.
+Para abrir o formulário de cadastro de empresas acesse: "http://localhost/meu_projeto/index.html" 
+No XAMPP, clique em Admin no MySQL ou acesse: "http://localhost/phpmyadmin/". Isso vai abrir o banco de dados do MySQL pelo phpmyadmin onde poderá ver todo o cadastro feito pelo formulário.
+
+
 Tecnologias Utilizadas
 O desenvolvimento do sistema faz uso de diversas tecnologias para garantir um funcionamento eficiente, seguro e escalável. 
 Abaixo estão as principais ferramentas e linguagens utilizadas:
