@@ -10,7 +10,7 @@ Para utilizar, faça o download do XAMPP e instale: "https://www.apachefriends.o
 Salve a pasta "meu_projeto" em "C:\xampp\htdocs".
 Abra o XAMPP e no painel de controle habilite a função Apache e MySQL.
 Para abrir o formulário de cadastro de empresas acesse: "http://localhost/meu_projeto/index.html" 
-No XAMPP, clique em Admin no MySQL ou acesse: "http://localhost/phpmyadmin/". Isso vai abrir o banco de dados do MySQL pelo phpmyadmin onde poderá ver todo o cadastro feito pelo formulário.
+No XAMPP, clique em Admin no MySQL ou acesse: "http://localhost/phpmyadmin/". Isso vai abrir o banco de dados do MySQL pelo phpmyadmin onde poderá ver todo o cadastro feito no formulário.
 
 
 Tecnologias Utilizadas
