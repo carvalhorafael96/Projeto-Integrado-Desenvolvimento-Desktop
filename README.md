@@ -1,6 +1,5 @@
 # Projeto-Integrado-Desenvolvimento-Desktop
 Rafael Carvalho Moreira
-RA: 1012023200088
 
 Aqui descrevo o desenvolvimento de um sistema para cadastro e gerenciamento de empresas e serviços prestados.
 O objetivo principal do projeto é permitir que empresas sejam registradas e associadas a diferentes serviços e projetos, 
